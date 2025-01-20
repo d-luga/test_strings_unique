@@ -1,5 +1,5 @@
 <?php
-//https://github.com/dain1982/test_unique_strings.git
+//https://github.com/d-luga/test_unique_strings.git
 
 // 16:35 - 20:30 (3:55)
 // примерно 0:10 - осмысление задания...
